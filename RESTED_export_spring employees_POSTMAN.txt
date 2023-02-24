@@ -1,0 +1,74 @@
+{
+  "id": "819f7abf-e6cb-4aca-83fd-dd56c471ddf0",
+  "name": "spring employees",
+  "requests": [
+    {
+      "id": "c2423344-5e91-4b07-9536-2b002c7a01e9",
+      "collectionId": "819f7abf-e6cb-4aca-83fd-dd56c471ddf0",
+      "method": "POST",
+      "url": "http://localhost:8080/api/login",
+      "headers": "Content-Type: application/json\n",
+      "dataMode": "urlencoded",
+      "data": [
+        {
+          "key": "",
+          "value": "",
+          "type": "text",
+          "enabled": true
+        }
+      ],
+      "rawModeData": []
+    },
+    {
+      "id": "de644225-9721-4b43-b545-277d72f17ead",
+      "collectionId": "819f7abf-e6cb-4aca-83fd-dd56c471ddf0",
+      "method": "GET",
+      "url": "http://localhost:8080/api/employees",
+      "headers": "\n",
+      "dataMode": "urlencoded",
+      "data": [
+        {
+          "key": "",
+          "value": "",
+          "type": "text",
+          "enabled": true
+        }
+      ],
+      "rawModeData": []
+    },
+    {
+      "id": "e640fc23-3d0f-4415-9447-448d154b77a0",
+      "collectionId": "819f7abf-e6cb-4aca-83fd-dd56c471ddf0",
+      "method": "POST",
+      "url": "http://localhost:8080/api/employees",
+      "headers": "Content-Type: application/json\n",
+      "dataMode": "urlencoded",
+      "data": [
+        {
+          "key": "",
+          "value": "",
+          "type": "text",
+          "enabled": true
+        }
+      ],
+      "rawModeData": []
+    },
+    {
+      "id": "3c3a068f-e3be-45ae-80b3-df2acacc444c",
+      "collectionId": "819f7abf-e6cb-4aca-83fd-dd56c471ddf0",
+      "method": "POST",
+      "url": "http://localhost:8080/api/employees",
+      "headers": "Content-Type: application/json\n",
+      "dataMode": "urlencoded",
+      "data": [
+        {
+          "key": "",
+          "value": "",
+          "type": "text",
+          "enabled": true
+        }
+      ],
+      "rawModeData": []
+    }
+  ]
+}
