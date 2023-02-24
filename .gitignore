@@ -1906,3 +1906,4 @@ target/classes/static/404.html
 target/classes/static/.travis.yml
 target/classes/static/.browserslistrc
 target/classes/application.properties
+target/springboot-postgres-docker-0.0.1-SNAPSHOT.jar.original
